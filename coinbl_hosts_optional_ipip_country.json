@@ -1,0 +1,50 @@
+[
+	{
+		"code": "ANYCAST",
+		"value": 45
+	},
+	{
+		"code": "CN",
+		"value": 1
+	},
+	{
+		"code": "CZ",
+		"value": 1
+	},
+	{
+		"code": "DE",
+		"value": 10
+	},
+	{
+		"code": "EE",
+		"value": 5
+	},
+	{
+		"code": "FR",
+		"value": 2
+	},
+	{
+		"code": "GB",
+		"value": 74
+	},
+	{
+		"code": "IE",
+		"value": 3
+	},
+	{
+		"code": "JP",
+		"value": 26
+	},
+	{
+		"code": "NL",
+		"value": 3
+	},
+	{
+		"code": "SE",
+		"value": 6
+	},
+	{
+		"code": "US",
+		"value": 41
+	}
+]
